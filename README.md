@@ -1,4 +1,4 @@
-# plainBreak 🔓
+# plainBreak - Non Hashed password cracking 🔓
 A Python-based password cracking toolkit featuring dictionary and brute-force attacks for educational and ethical security testing.
 
 ---
