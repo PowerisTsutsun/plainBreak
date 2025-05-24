@@ -1,0 +1,5 @@
+admin:123456
+user1:password
+guest:letmein
+test:qwerty
+demo:abc123
