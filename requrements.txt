@@ -1,0 +1,5 @@
+# No external dependencies required.
+# The script uses Python's built-in libraries only.
+
+# For Python 3.6 or higher
+python_version >= "3.6"
